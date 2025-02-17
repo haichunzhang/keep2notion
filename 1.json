@@ -7,12 +7,12 @@
             "birthday": 878774400000,
             "_id": "5afc38441cf3d103efc9ba9b"
         },
-        "id": "5afc38441cf3d103efc9ba9b_9223370297188796807_tr",
+        "id": "5afc38441cf3d103efc9ba9b_9223370297102136807_tr",
         "feel": 3,
-        "calorie": 11,
-        "duration": 137,
-        "startTime": 1739665840000,
-        "endTime": 1739665979000,
+        "calorie": 5,
+        "duration": 95,
+        "startTime": 1739752542000,
+        "endTime": 1739752639000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "public": false,
-            "exist": false
+            "exist": false,
+            "public": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE53WO2rDQBhF4d6rEK5dzC/NM10WEEgfUjigQoVDiBUwhOw9MzhFiiN0mcLNNRzLeD5ZL4dh+K6vYTi+zef1+jx/Pi3vX+t8HB6GHE/3t9blMl/X8+WjrRbcv/nxtlz/1jr+nDp6GXu5tzca9eq63/PY89jzQs+wl7CXhN5EvclRr677vYC9CXvTfq8U7EXsxf2e2YjBgsGiBB0F/UjBuu4HHR5Bj0S8QMRcxiAa8YIRMzw0AZEEAclWEJUEQYkZsgvIJAhMNoIRnUTByVYQoUQBihkem4hSoiSFgyglSlLQckIpSZEyJgyilKRIGVFKQilJkoJfOaOULEnBY5NRSu6XklFKlqTgP0BBKaVfSkEpRZLCQZRSJCl4+yoopUhS8ArNIZU29yf5ycspWraS/PDlJC/8OGcIps1CEm8S9eI5KZnBI14/iZOSGjxCNiKbNvcnEU6b+5NIp839ScTT5u6fZ2I9013P4fUXXVegD7gMAAA=",
-            "averageHeartRate": 109.0,
-            "maxHeartRate": 128,
+            "heartRates": "H4sIAAAAAAAAE53VPWrDQBBA4d6nWFy7kLQ/M5POBzCkDylsUKHCJkQKBILv7g1qUjzFwxZuxvDwWvNp33Yh/NRPCPvLeF7m1/HzNN2+lnEfXoJ1h/WrZbqO83K+fvxOy9/p8Xua12Gd3Q//1VSoZlQzR61QrR8oV6dPezZgL2MvO3oJe4o9dZzXqDf01KvT5z3FXsJean0eg2BPWrcldtSr08bfFyP2Yuv/FxFH9OjAfYnIIzb7SOgjOXxs9NBHcvjgfU7oIzX7yOgje3zg88joI3t84L5k9JE9PvC8BX0Uhw/rsYc+isPHRo8vD4ePjR76KA4f3BP0IZ77A/dF0Ic03x+CPsTho+/wwIpA1AFkK4hC1CGET6woRB1CDN9YhkJsFbJ7fwCdp/cxEAkAAA==",
+            "averageHeartRate": 90.0,
+            "maxHeartRate": 101,
             "wearableDevices": [
                 {
                     "macAddress": "12:C4:59:63:63:A1",
@@ -56,7 +56,7 @@
         },
         "planId": "637c2be4a7841500012130d9",
         "workoutId": "637c2be4a7841500012130d7",
-        "workoutFinishTimes": 3,
+        "workoutFinishTimes": 5,
         "workoutName": "俯卧撑",
         "workoutSource": null,
         "scheduleName": null,
